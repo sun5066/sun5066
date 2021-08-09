@@ -9,5 +9,5 @@ Android Developer
 ---
 <p align="center" style="max-width: 100%;">
   <a href="https://sun5066.github.io"><img src="https://img.shields.io/badge/Blog-Sun%20Blog-blue"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Company-Inforex-blue"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Company-YEOBOYA-pink"/></a>
 </p>
